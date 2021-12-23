@@ -1,0 +1,29 @@
+.exit
+tx = await ssu.getCardInfo("0")
+tx = await ssu.getCardInfo("0"))
+tx = await ssu.getCardInfo(0)
+tx = await ssu.mint("card1","0x71Cb19ACbda99D2cD892Fc5A2c40aC7A17783465")
+const ssu = await f.attach("0x71Cb19ACbda99D2cD892Fc5A2c40aC7A17783465")
+const f = await ethers.getContractFactory("Card")
+.exit
+await ssu.getCardInfo(0)
+tx = await ssu.mint("card1","0x71Cb19ACbda99D2cD892Fc5A2c40aC7A17783465")
+const ssu = await f.attach("0x71Cb19ACbda99D2cD892Fc5A2c40aC7A17783465")
+const f = await ethers.getContractFactory("Card")
+.exit
+exit
+eixt
+tx = await ssu.mint("card2","0x71Cb19ACbda99D2cD892Fc5A2c40aC7A17783465")
+await ssu.name()
+await ssu.name
+await ssu.ns
+await ssu.colors[0]
+await ssu.cards[0]
+await ssu.colors(0)
+await ssu.colors()
+await ssu.colors
+await ssu.getCards(0)
+await ssu.cards(0)
+const tx = await ssu.mint("card1","0x71Cb19ACbda99D2cD892Fc5A2c40aC7A17783465")
+const ssu = await f.attach("0x71Cb19ACbda99D2cD892Fc5A2c40aC7A17783465")
+const f = await ethers.getContractFactory("Card")
